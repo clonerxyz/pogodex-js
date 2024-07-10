@@ -5,7 +5,7 @@ npm install moment
 
 and just go node poke.js
 
->$ node poke.js /n
+>$ node poke.js
 >Caterpie 40.84048848,-73.85904362 cp: 279
 >Caterpie 40.87802716,-73.8463631 cp: -1
 >Caterpie 40.8492191,-73.8542221 cp: -1
