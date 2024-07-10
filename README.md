@@ -1,6 +1,6 @@
 how to use 
 
-npm install axios 
+npm install axios &
 npm install moment
 
 and just go node poke.js
